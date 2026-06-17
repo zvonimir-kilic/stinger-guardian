@@ -3,6 +3,10 @@
 > Early prototype of an action game where you play as a soldier with a Stinger missile launcher shooting down enemy aircraft. One mission and 1v1 LAN multiplayer.
 
 <p align="center">
+  <a href="https://github.com/zvonimir-kilic/stinger-guardian/releases/tag/v0.1.0"><strong>Download Stinger Guardian v0.1.0 (Windows)</strong></a>
+</p>
+
+<p align="center">
   <img src="Media/Screenshots/PlayerPerspective.png" width="800" alt="Player perspective with Stinger missile launcher aimed at incoming enemy jet"/>
 </p>
 
