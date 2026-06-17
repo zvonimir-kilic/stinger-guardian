@@ -13,7 +13,7 @@
 Defend the airspace as a soldier armed with an FIM-92 Stinger surface-to-air missile launcher. Three enemy aircraft approach the base, shoot them all down before they reach you.
 
 <p align="center">
-  <video src="https://github.com/zvonimir-kilic/stinger-guardian/raw/main/Media/Videos/Base.mp4" controls width="700"></video>
+  <video src="https://github.com/user-attachments/assets/d8c86d1a-71c0-4ea6-bd51-680811ce6c3b" controls width="700"></video>
 </p>
 
 ### 1v1 LAN Multiplayer
@@ -21,7 +21,7 @@ Defend the airspace as a soldier armed with an FIM-92 Stinger surface-to-air mis
 Asymmetric versus mode. One player operates the Stinger on the ground, the other pilots an enemy jet. Host or join over LAN with a custom lobby. First to the score limit wins, with a Golden Kill overtime mode if the timer runs out tied.
 
 <p align="center">
-  <video src="https://github.com/zvonimir-kilic/stinger-guardian/raw/main/Media/Videos/Multiplayer.mp4" controls width="700"></video>
+  <video src="https://github.com/user-attachments/assets/76960070-45da-4275-bd75-273b3b6a89fb" controls width="700"></video>
 </p>
 
 ## Features
