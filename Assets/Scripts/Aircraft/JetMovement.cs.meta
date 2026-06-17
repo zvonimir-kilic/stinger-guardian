@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 424d951e67d06ba429b5d736a7cac36f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 8697240461455314244, guid: adb3e80e29282984bbae4ddd2f9de709,
+      type: 3}
+  - rightMissile: {fileID: 8487848514987932378, guid: 48ac6a18b9c75764e9e755fe3ba6a605,
+      type: 3}
+  - leftMissile: {fileID: 4814369312669180730, guid: 718651aba8d26c24db39212c10368b20,
+      type: 3}
+  - missilePrefab: {fileID: 1766029027578036531, guid: b9200f3d7f642c6458c4fdf4f47c6b10,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
